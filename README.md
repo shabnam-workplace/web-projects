@@ -1,15 +1,4 @@
-# 🤖 AI Virtual Assistant – Smart Hindi-Speaking Assistant  
-
-
-## 📸 Screenshots
-
-![Virtual Assistant Screenshot](https://github.com/user-attachments/assets/221580ab-be6b-4543-add6-ce02383797cf)
-
-Category:- "Mini Project, Top, HTML, CSS, JavaScript, Api"
----
-
-## 🔗 **Live Demo:** [Try it here](https://praveenkr398.github.io/AiVirtualAssistant/)  
-## 💻 **GitHub Repo:** [Explore the Code](https://github.com/Praveenkr398/AiVirtualAssistant)  
+# 🤖 AI Virtual Assistant   
 
 ## 🚀 About the Project  
 This **AI Virtual Assistant** is a smart web-based assistant built using **HTML, CSS, and JavaScript**, designed to understand and respond to Hindi queries. It can perform various tasks like fetching **current time and date**, opening popular apps, and even **searching Google** for random questions. With **natural language processing** for Hindi interactions, this project brings **a localized AI assistant experience** to users.  
@@ -18,9 +7,9 @@ This **AI Virtual Assistant** is a smart web-based assistant built using **HTML,
 🗣️ **Hindi Language Support** – Interact with the assistant in Hindi  
 ⏰ **Time & Date Query** – Ask "Samay kya hai?" or "Aaj ki tareekh?" for real-time responses  
 📱 **Open Popular Apps Instantly** – Commands like:  
-   - `"Instagram kholo"` → Opens Instagram  
-   - `"YouTube kholo"` → Opens YouTube  
-   - `"Calculator kholo"` → Launches Calculator  
+   - `"open instgram"` → Opens Instagram  
+   - `" open YouTube "` → Opens YouTube  
+   - `" open Calculator"` → Launches Calculator  
 🔍 **Google Search Integration** – Ask random questions like:  
    - `"Bharat ka rashtriya pakshi kaun hai?"` → Redirects to Google search  
 🎵 **YouTube Music Play** – Say `"Play"` followed by any song name, and the assistant plays the first YouTube result  
@@ -39,10 +28,4 @@ This **AI Virtual Assistant** is a smart web-based assistant built using **HTML,
 2️⃣ **Executes actions based on commands** – Opens apps, fetches time/date, searches Google, plays YouTube songs  
 3️⃣ **Provides an interactive AI assistant experience** – No need to type; just speak!  
 
-## 📢 Connect With Me  
-I specialize in **front-end development, AI-powered web applications, and API integrations**. Looking for **collaborations** or **opportunities**? Let’s connect!  
 
-📌 **LinkedIn:** [Praveen Kumar Pandit](https://www.linkedin.com/in/Praveenkr398)  
-📌 **GitHub:** [Praveenkr398](https://github.com/Praveenkr398)  
-
----
